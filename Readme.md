@@ -1,16 +1,16 @@
 ## West Wind Html Help Builder Releases
 
-This repository contains HTML Help Builder releases and betas to allow access to current and older versions of Help Builder for downloading. These are binary releases only that contain the setup files used to install Html Help Builder. 
+Html Help Builder is a documentation tool that makes it easy to create end user and developer documentation, reference materials, FAQs, code repositories and any other free form text storage. To find out more please go to:
+
+* **[Help Builder Product Site](http://helpbuilder.west-wind.com)**
+
+This repository contains HTML Help Builder releases and betas to allow access to current and older versions of Help Builder for downloading. These are binary releases only that contain the setup files used to install Html Help Builder. This repo is also here to provide [issue tracking](issues) for Help Builder
 
 You can find downloads for the following versions here:
 
 * **[Current Release](CurrentRelease)**
-* **[Help Builder 5.0](HelpBuilder 4.0)**
+* **[Help Builder 5.0](HelpBuilder 5.0)**
 * **[Help Builder 4.0](HelpBuilder 4.0)**
-
-Html Help Builder is a documentation tool that makes it easy to create end user documentation, reference materials, FAQs, code repositories and any other free form text storage. To find out more please go to:
-
-* **[Help Builder Product Site](http://helpbuilder.west-wind.com)**
 
 ### Bug Reports, Suggestions via GitHub Issue Tracker
 If you run into issues with Help Builder or you have suggestions on how to improve this product, we'd love to hear from you.  We have two separate avenues for support issues:
