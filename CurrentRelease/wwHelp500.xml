@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <codeupdate>
-    <version>5.0.86</version>
+    <version>5.0.92</version>
     <fileurl>http://www.west-wind.com/files/HelpBuilderSetup.exe</fileurl>
     <filesize>13000</filesize>
     <minversion>5.0</minversion>
@@ -10,5 +10,5 @@ Version 5.0 is a major upgrade that introduces a completely new text editor and 
 If you're upgrading from a version prior to 5.0, please install this update with a full re-installation of Help Builder.
 <a href="http://west-wind.com/wwhelp/download.aspx">Download Latest Version</a>
 </usermessage>
-<releasedate>August 22nd, 2015</releasedate>
+<releasedate>August 31st, 2015</releasedate>
 </codeupdate>
