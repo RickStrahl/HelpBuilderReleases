@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <codeupdate>
-    <version>5.0.217</version>
+    <version>5.0.218</version>
     <fileurl>http://www.west-wind.com/files/HelpBuilderSetup.exe</fileurl>
     <filesize>12600</filesize>
     <minversion>5.0</minversion>
@@ -12,5 +12,5 @@ If you're upgrading from a version prior to 5.0, please install this update with
 
 <a href="http://helpbuilder.west-wind.com/download.aspx" target="HelpBuilder">Download Page</a>
 </usermessage>
-<releasedate>February 2nd, 2016</releasedate>
+<releasedate>February 3nd, 2016</releasedate>
 </codeupdate>
