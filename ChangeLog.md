@@ -1,7 +1,7 @@
 ## Changelog
 This changelog describes minor changes and updates for each release version.
 
-### 5.0.224
+### 5.0.225
 
 * **Add Print media query for print output from Web pages**    
 Added @media print to CSS to hide sidebar and a few other items from the print view.
@@ -11,6 +11,12 @@ Fixed regression bug where local links in CHM file and from disk would not load 
 
 * **Fix Alt-K (Insert HyperLink) Keyboard jumping**  
 Fixed bug where Ace Alt-K behavior of next selection was screwing up insertion of hyper links.
+
+* **Fix Code Highlighting for various language Shortcuts (c#,vfp etc.)**  
+Fixed bug that didn't run the language translation code when parsing languages to Ace language ids.
+
+* **Fix .NET Import Bug with Generated Types**  
+Fix .NET bug caused by generated anonymous types that don't have a proper name. Overriding code to use plain name property instead of FullName.
 
 ### 5.0.222
 * **Add IE Edge Meta Tag to Layout page**  
