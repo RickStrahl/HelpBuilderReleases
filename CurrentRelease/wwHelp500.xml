@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <codeupdate>
-    <version>5.0.230</version>
+    <version>5.0.235</version>
     <fileurl>http://www.west-wind.com/files/HelpBuilderSetup.exe</fileurl>
     <filesize>12600</filesize>
     <minversion>5.0</minversion>
@@ -8,9 +8,9 @@
 Version 5.0 is a major upgrade that introduces a completely new text editor and adds Markdown support for text editing. There's now an as-you-type spell checker and syntax highlighting for Markdown and HelpBuilder formats while editing. There is also support for many new languages for syntax coloring code snippets and a set of new, simpler HTML themes for rendering output. There's also been an overall overhaul of the user interface to smooth out the workflow for content creation.
 
 <b style="color: maroon">Important:</b>
-If you're upgrading from a version prior to 5.222 or earlier, please install this update with a full re-installation of Help Builder and make sure you update any projects to the latest templates. Make sure to update your templates as there have been major changes in the default templates and the old templates will not work without modification. To update the templates go to Tools | Update Templates.
+If you're upgrading from a version prior to 5.230 or earlier, please install this update with a full re-installation of Help Builder and make sure you update any projects to the latest templates. Make sure to update your templates as there have been major changes in the default templates and the old templates will not work without modification. To update the templates go to Tools | Update Templates.
 
 <a href="http://helpbuilder.west-wind.com/download.aspx" target="HelpBuilder">Download Page</a>
 </usermessage>
-<releasedate>August 15th, 2016</releasedate>
+<releasedate>September 15th, 2016</releasedate>
 </codeupdate>
