@@ -1,5 +1,27 @@
-## Changelog
+﻿## Changelog
 This changelog describes minor changes and updates for each release version.
+
+### 5.0.230
+
+* **Switch to HighlightJs for outputSyntax Coloring**  
+We've switched to highlighJs for output syntax coloring on generated help and HTML content. Highlight is much smaller in size and doesn't require a number of workaround quirks to render properly.
+
+* **External Preview more frequently**  
+The preview now updates for all toolbar operations in addition to save operations. Previously only save forced an update. Especially useful when linking images and  links to immediately see added content.
+
+* **Ctrl-Shift-Up/Ctrl-Shift-Down scrolls Preview Window**  
+Added support to allow these keys to scroll the preview window up and down quickly with the keyboard.
+
+* **Additional Preview Theme Tweaking**  
+Fixed a number of sizing issues in the preview themes. Base size stays the same but large screen sizes now are a little more modest in their scale up size.
+
+### 5.0.230
+
+* **Fix Preview Timing**  
+Updated the preview timing to allow for quicker and more reliable preview updates.
+
+* **Preview Theme Updates**  
+Many editor tweaks to improve performance and smoother typing while editing text.
 
 ### 5.0.225
 
