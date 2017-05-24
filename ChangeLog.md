@@ -1,6 +1,24 @@
 ﻿## Changelog
 This changelog describes minor changes and updates for each release version.
 
+### 5.01
+
+* **Spell Checking Improvements**  
+The spellchecker now only spell checks the active text that is on screen and a buffer area before and after the visible text. This improves editor performance on large documents as spell checks only affect a small portion of the entire document.
+
+* **Support for Image Pasting**  
+You can now paste images from the clipboard into Markdown content. Simply copy an image to the clipboard from your browser or image editing program, and then **ctrl-v** into the active markdown document at the location you want to embed the image.
+
+* **PNG Image Compression**  
+When pasting images into the editor or adding images by filename in the image dialog, images saved as PNG are automatically compressed using **optipng**. Image compression occurs in the background.
+
+* **Scroll Sync**  
+The HTML Preview now stays in sync with the editor's content in most situations. To move the preview simply navigate in the edit document and the preview will reflect the approximate location of the text with the editor selection showing in the top quarter of the preview.
+
+* **Html PreviewWindow Setting Remembered between Restarts**  
+The HTML Preview window setting is now remembered between restarts of the application. If you had the external preview open when you shut down, it will be opened when you start back up the next time.
+
+
 ### 5.0.230
 
 * **Switch to HighlightJs for outputSyntax Coloring**  
@@ -14,8 +32,6 @@ Added support to allow these keys to scroll the preview window up and down quick
 
 * **Additional Preview Theme Tweaking**  
 Fixed a number of sizing issues in the preview themes. Base size stays the same but large screen sizes now are a little more modest in their scale up size.
-
-### 5.0.230
 
 * **Fix Preview Timing**  
 Updated the preview timing to allow for quicker and more reliable preview updates.
