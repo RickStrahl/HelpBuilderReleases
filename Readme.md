@@ -18,7 +18,7 @@ If you run into issues with Help Builder or you have suggestions on how to impro
 * **<a href="https://github.com/RickStrahl/HelpBuilderReleases/issues" target="top">GitHub Issues for Bug Reports and Feature Suggestions</a>**  
 Use the GitHub repo for formal issue tracking of bugs and suggestions. This avenue is meant for actionable tasks for us to address, so please keep issues concise and focused on actionable tasks. If at all possible please provide detailed repro steps so we can reproduce the issue and fix it. If you have more general questions or issues that you are not sure whether they are supported our support forum is a better avenue.
 
-* **<a href="http://www.west-wind.com/wwthreads/default.asp?forum=HTML+Help+Builder" target="top">Help Builder Support Forum</a>**  
+* **<a href="http://support.west-wind.com?forum=HTML+Help+Builder" target="top">Help Builder Support Forum</a>**  
 For more general discussion of operation of Help Builder or discussion of feature requests and other more general use cases, please use the message board. This forum is meant to handle user interactions.
 
 
