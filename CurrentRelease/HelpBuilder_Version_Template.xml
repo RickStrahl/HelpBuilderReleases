@@ -2,7 +2,7 @@
 <codeupdate>
      <version>{{version}}</version>
     <fileurl>http://www.west-wind.com/files/HelpBuilderSetup.exe</fileurl>
-    <filesize>13000</filesize>
+    <filesize>15000</filesize>
     <minversion>5.0</minversion>
    <usermessage>
 ## HTML Help Builder {{version}} is available
@@ -12,12 +12,13 @@
 A few improvements in recent versions include:
 
 * Improved Editor performance and stability
+* Content search for Web site output
+* Additional Editor Inline Syntax disply for Code Fences
+* New Bookmark Dialog
+* Open Graph meta data for Web opics
 * Time to Read Display in Web Topics
-* `Shift-Enter` Shortcut for Soft Linefeeds
-* Web Search automatically focused
-* New Document Outline in Web View
+* External links displayed in System Web Browser
 * New VS Code Dark Editor Theme
-* Line height and White Space Editor configuration
 
 > #### Update your Templates
 > After updating, please make sure to update your templates as there have been major changes in the default templates and the old templates will not work without modification. To update the templates go to **Tools -> Update Templates**.
